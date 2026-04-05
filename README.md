@@ -22,8 +22,6 @@ O objetivo aqui nao e apenas gerar um mapa, mas mostrar uma entrega com cara de 
 |   `-- mapa_rgint_mg_<ano>.png
 |-- scripts/
 |   `-- gerar_mapa_rgint_mg.R
-|-- linkedin_post.md
-`-- README.md
 ```
 
 ## Base utilizada
