@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+*.html
+*.pdf
+base rg int.Rproj
+mapa rg.R
+mapa_rgint_mg.qmd
+mapa_empregos_brasil_2025.png
+saldo_de_emprego_nas_regioes.xlsx
