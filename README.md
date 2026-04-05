@@ -70,9 +70,3 @@ Se voce tiver a abertura setorial que sustenta essa leitura, vale reforcar na po
 - O arquivo original `mapa_rgint_mg.qmd` foi mantido como rascunho de trabalho. O script em `scripts/` e a versao mais limpa para publicar.
 - A nomenclatura antiga `mapa_2025.png` gerava ambiguidade com um filtro em `2026`. Nesta versao, o nome do arquivo acompanha o ano mais recente encontrado na base.
 
-## Sugestao de apresentacao no GitHub
-
-- Use a imagem gerada em `graficos/` como capa do repositorio.
-- Descreva em duas linhas o problema publico que a analise responde.
-- Explique de onde vem a base e o que cada coluna representa.
-- Mantenha o foco em clareza e reprodutibilidade, nao em volume de arquivos.
