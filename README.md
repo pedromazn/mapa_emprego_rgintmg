@@ -64,5 +64,5 @@ Se voce tiver a abertura setorial que sustenta essa leitura, vale reforcar na po
 
 - O download da malha geografica depende do `{geobr}` e pode exigir internet na primeira execucao.
 - O arquivo original `mapa_rgint_mg.qmd` foi mantido como rascunho de trabalho. O script em `scripts/` e a versao mais limpa para publicar.
-- A nomenclatura antiga `mapa_2025.png` gerava ambiguidade com um filtro em `2026`. Nesta versao, o nome do arquivo acompanha o ano mais recente encontrado na base.
+
 
