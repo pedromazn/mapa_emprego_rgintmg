@@ -2,8 +2,6 @@
 
 Projeto em R para transformar uma base agregada do Novo Caged em uma visualizacao geografica por Regioes Intermediarias do IBGE em Minas Gerais.
 
-O objetivo aqui nao e apenas gerar um mapa, mas mostrar uma entrega com cara de portfolio: codigo organizado, documentacao clara e um ativo visual facil de publicar no GitHub e no LinkedIn.
-
 ## O que este projeto mostra
 
 - Leitura de uma base simples com tres colunas: `Regioes`, `Saldo` e `Ano`.
